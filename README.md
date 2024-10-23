@@ -1,4 +1,4 @@
-Template for development of regional lab manuals as part of the PAM SI
+# PAM National Lab Manual
 
 ### Disclaimer
 
