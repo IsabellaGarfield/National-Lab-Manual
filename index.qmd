@@ -17,8 +17,10 @@ In order to keep consistency between science centers, the following sections/pag
 -   [Data Management](https://nmfs-ost.github.io/PAM_template_lab_manual/content/DataManagement.html)
 -   [Hardware](https://nmfs-ost.github.io/PAM_template_lab_manual/content/Hardware.html)
 -   [Software](https://nmfs-ost.github.io/PAM_template_lab_manual/content/Software.html)
+-   [Field Methods](https://nmfs-ost.github.io/PAM_template_lab_manual/content/FieldMethods.html)
 -   [Analysis](https://nmfs-ost.github.io/PAM_template_lab_manual/content/AnalysisMethods.html)
 -   [Reporting](https://nmfs-ost.github.io/PAM_template_lab_manual/content/Reporting.html)
+
 
 ## Optional Pages
 
