@@ -1,10 +1,22 @@
 ---
 title: "Home"
-subtitle: "National Lab Manual for NOAA's Passive Acoustic Monitoring (PAM) Strategic Initiative (SI)"
+subtitle: "Practice Lab Manual for NOAA's Passive Acoustic Monitoring (PAM) Strategic Initiative (SI)"
 page-layout: full
 ---
 
-## PAM National Lab Manual
+<table>
+<tr>
+<td style= "width: 50%; vertical-align: top;">
+<p> This Lab manual has information about the goals, technology, and research of the NEFSC Passive Acoustic team. <p>
+</td>
+<td style= "width: 50%; vertical-align: top;">
+<img src="content/images/Example image.png" style = "width: 60%;">
+</td>
+<tr>
+<table>
+
+
+## PAM Lab Manual
 
 A key priority of the PAM SI is to build an open science culture across the agency by leveraging GitHub as a collaboration, coordination, and project management tool. To achieve this we will develop national and regional lab manuals that follow a parallel structure and link to each other. These manuals will serve as the primary storage location for all lab related information, including methods and data management, and will be a single access resource to support coordination across science center PAM programs.
 
@@ -20,7 +32,6 @@ In order to keep consistency between science centers, the following sections/pag
 -   [Field Methods](https://nmfs-ost.github.io/PAM_template_lab_manual/content/FieldMethods.html)
 -   [Analysis](https://nmfs-ost.github.io/PAM_template_lab_manual/content/AnalysisMethods.html)
 -   [Reporting](https://nmfs-ost.github.io/PAM_template_lab_manual/content/Reporting.html)
-
 
 ## Optional Pages
 

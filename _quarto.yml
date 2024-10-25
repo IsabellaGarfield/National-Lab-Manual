@@ -21,11 +21,11 @@ website:
     align: center
     tools: 
       - icon: globe
-        href: https://www.fisheries.noaa.gov/national/science-data/ocean-noise
-        text: "NMFS Passive Acoustic Monitoring Network"
+        href: https://www.fisheries.noaa.gov/new-england-mid-atlantic/endangered-species-conservation/passive-acoustic-research-northeast
+        text: "NEFSC Passive Acoustic Monitoring"
       - icon: github
         href: https://github.com/nmfs-ost/PAM_template_lab_manual
-        text: "NMFS PAM SI Lab Manual" #will update with national github
+        text: "NMFS PAM SI Lab Manual" 
 
     style: "docked"
     search: true
@@ -54,7 +54,8 @@ website:
           - content/AnalysisMethods.qmd
       - href: content/Reporting.qmd
         text: Reporting
-      - section: "Optional Pages"
+      - section: content/Optionalpage.qmd
+        text: "Optional Pages"
         contents: 
           - content/SharedValues.qmd
           - content/Onboarding.qmd
